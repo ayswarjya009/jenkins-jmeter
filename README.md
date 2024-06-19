@@ -20,7 +20,7 @@ Update the executable path of jmeter
 - sudo mv jmeter /opt
 - echo 'export PATH="$PATH:/opt/jmeter/bin"' >> ~/.bashrc
 - source ~/.bashrc
-- Jmeter
+- jmeter
 ```
 ----
 
